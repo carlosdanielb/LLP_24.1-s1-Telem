@@ -60,3 +60,4 @@ Responda a lista de exercícios abaixo:
 - (b) `>>` - Resposta Correta
 - (c) `&`
 - (d) `|`
+  
