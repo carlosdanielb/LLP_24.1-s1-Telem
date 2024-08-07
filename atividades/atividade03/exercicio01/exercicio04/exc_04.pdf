@@ -1,4 +1,5 @@
 Saídas para o código:
+
 1.
 Digite um número inteiro: 0
 O número é zero.
@@ -25,3 +26,6 @@ Digite um número de 1 a 7: 8
 Número inválido
 
 4.
+Digite o primeiro número: 0
+Digite o segundo número: 1
+O maior número é: 1
