@@ -1,0 +1,12 @@
+Saídas do Código:
+
+Digite o primeiro número: 0
+Digite o segundo número: 1
+Bits do primeiro número: 00000000000000000000000000000000
+Bits do segundo número: 00000000000000000000000000000001
+Resultado da operação E (AND): 00000000000000000000000000000000
+Resultado da operação OU (OR): 00000000000000000000000000000001
+Resultado da operação OU Exclusivo (XOR): 00000000000000000000000000000001
+Resultado da operação Negação (NOT) do primeiro número: 11111111111111111111111111111111
+Resultado do deslocamento para a esquerda do primeiro número: 00000000000000000000000000000000
+Resultado do deslocamento para a direita do primeiro número: 00000000000000000000000000000000
