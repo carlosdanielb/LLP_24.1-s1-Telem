@@ -1,5 +1,5 @@
 Saídas para o código:
-
+1.
 Digite um número inteiro: 0
 O número é zero.
 
@@ -9,3 +9,12 @@ O número -1 é negativo.
 
 Digite um número inteiro: 6
 O número 6 é positivo.
+
+2.
+Digite um ano: 2006
+2006 não é um ano bissexto.
+
+Digite um ano: 2020
+2020 é um ano bissexto.
+
+3.
