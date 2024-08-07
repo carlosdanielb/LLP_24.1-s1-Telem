@@ -55,7 +55,7 @@ int main() {
             printf("Parabéns! Você acertou o número secreto: %d\n", numeroSecreto);
             break;
         }
-    } while (true);
+    } while ("true");
 
     return 0;
 }
